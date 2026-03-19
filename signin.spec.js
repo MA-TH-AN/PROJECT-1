@@ -1,0 +1,2 @@
+ SVGLinearGradientElement
+ addEventListener
